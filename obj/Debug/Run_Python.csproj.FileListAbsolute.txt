@@ -7,3 +7,4 @@ C:\Users\admin\source\repos\Run_Python\Run_Python\obj\Debug\Run_Python.csproj.Ge
 C:\Users\admin\source\repos\Run_Python\Run_Python\obj\Debug\Run_Python.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\Run_Python\Run_Python\obj\Debug\Run_Python.exe
 C:\Users\admin\source\repos\Run_Python\Run_Python\obj\Debug\Run_Python.pdb
+C:\Users\admin\source\repos\Run_Python\Run_Python\bin\Debug\Run_Python.exe.config
